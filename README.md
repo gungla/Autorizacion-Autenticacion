@@ -1,4 +1,4 @@
-# 27 Autorización Autenticación
+# Autorización Autenticación
 
 ENDPOINTS
 
